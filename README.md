@@ -5,7 +5,6 @@ JS Developer
 ----------------------------------
 
 * 🌍  I'm based in Bali - Indonésia
-* 🖥️  See my portfolio at [My website](http://mitain.com)
 * ✉️  You can contact me at [samuelchojnacki.pro@gmail.com](mailto:samuelchojnacki.pro@gmail.com)
 * 🧠  I'm learning Machine Learning & Python for Maths
 * 🤝  I'm open to collaborating on interesting project
